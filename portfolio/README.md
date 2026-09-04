@@ -1,5 +1,4 @@
 Seemay Orario Morte — Personal Portfolio
-
 A personal portfolio project showcasing technical achievements, skills, and qualifications.
 
 About
